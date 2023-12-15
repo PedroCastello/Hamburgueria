@@ -1,0 +1,27 @@
+Array:
+const menuOptions = [
+{ name: 'X-Salada', price: 30, vegan: false, src: './img/xsalada.jpeg' },
+{ name: 'X-Bacon', price: 34, vegan: false, src: './img/xbacon.png' },
+{ name: 'X-Bacon Egg', price: 39, vegan: false, src: './img/bacon-egg.png' },
+{ name: 'Monstruoso', price: 50, vegan: false, src: './img/monstruoso.png' },
+{ name: 'Big Vegano', price: 55, vegan: true, src: './img/xvegan.png' },
+{ name: 'X-Vegan', price: 45, vegan: true, src: './img/monstruoso-vegan.png' },
+]
+
+
+Fotos:
+Bacon Egg - https://files.curseduca.com/d9ab31c9-4410-4407-92cd-5723bde8194f/8cc886750600ac64e797f948a8df02619192c420.png
+
+Monstruoso Vegan - https://files.curseduca.com/d9ab31c9-4410-4407-92cd-5723bde8194f/ff66d5c75e6d54d38be6c1505434d7a51fde8ff9.png
+
+Monstruoso - https://files.curseduca.com/d9ab31c9-4410-4407-92cd-5723bde8194f/73aaa87f0770e23c617a3178de74f2c8e49041c4.png
+
+xBacon - https://files.curseduca.com/d9ab31c9-4410-4407-92cd-5723bde8194f/48c1a49c2710910772b03e096aa350e1210d5aad.png
+
+xSalada - https://files.curseduca.com/d9ab31c9-4410-4407-92cd-5723bde8194f/19355e11ef51d116bfac671bf49ff1c1622cec67.jpeg
+
+xVegan - https://files.curseduca.com/d9ab31c9-4410-4407-92cd-5723bde8194f/05ea0487ad81b3b34ab62cb2e46950c059aa3e1e.png
+
+
+
+https://github.com/rodolfomori/curso-js-2
